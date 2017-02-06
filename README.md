@@ -1,12 +1,4 @@
 ## ActivityLivecycle
-* id.sch.smktelkom_mlg.learn.activitylivecycle
-
-## Identitas
-* Nama  : Arnetta Rahmawati
-* Kelas : XI RPL 4
-* Absen : 8
-* NIS   : 4673/1392.070
-* Sekolah : SMK Telkom Malang
 
 ## Screenshot Aplikasi
 <p align="center">
@@ -16,3 +8,11 @@
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/22093237/22646980/983a6a10-eca1-11e6-8075-263d69b21e74.png" width="650"/>
 </p>
+
+## Identitas
+* Nama  : Arnetta Rahmawati
+* Kelas : XI RPL 4
+* Absen : 8
+* NIS   : 4673/1392.070
+* Sekolah : SMK Telkom Malang
+
